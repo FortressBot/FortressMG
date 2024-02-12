@@ -1,0 +1,6 @@
+{
+    "token": "bot token here",
+    "guildId": "guild id here (nothing here if you want global commands)",
+    "mongoEnabled": false,
+    "mongoURI": "mongo uri here (only if mongoEnabled is true)"
+}
